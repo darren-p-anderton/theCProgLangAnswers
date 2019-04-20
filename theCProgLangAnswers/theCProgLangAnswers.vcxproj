@@ -149,6 +149,7 @@
     <ClCompile Include="Ex1-1,2.c" />
     <ClCompile Include="Ex1-3.c" />
     <ClCompile Include="Ex1-4.c" />
+    <ClCompile Include="Ex1-5.c" />
     <ClCompile Include="MainControl.c" />
   </ItemGroup>
   <ItemGroup>
