@@ -21,6 +21,12 @@
     <ClCompile Include="Ex1-3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MainControl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex1-4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ch1Headers.h">

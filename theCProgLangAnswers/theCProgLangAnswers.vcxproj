@@ -22,14 +22,14 @@
     <ProjectGuid>{335A36BB-0109-46A1-B2AE-8213A3A3452D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>theCProgLangAnswers</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
@@ -148,6 +148,8 @@
   <ItemGroup>
     <ClCompile Include="Ex1-1,2.c" />
     <ClCompile Include="Ex1-3.c" />
+    <ClCompile Include="Ex1-4.c" />
+    <ClCompile Include="MainControl.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ch1Headers.h" />

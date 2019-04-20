@@ -1,11 +1,9 @@
 #include <stdio.h>
 #include "Ch1Headers.h"
 
-main()
+void Ch1Ex1()
 {
 	printf("hello, world\n");
-	
-	Ch1Ex3();
 
 }
 
